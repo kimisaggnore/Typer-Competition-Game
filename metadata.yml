@@ -1,0 +1,14 @@
+---
+:id: 116268384
+:submitters:
+- :name: Joon Joon Park
+  :email: joonpark2024@u.northwestern.edu
+- :name: Winston Maxwell Ding
+  :email: winstonding2024@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-03-11 08:09:50.351265000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-03-11 00:09:50.351265000 Z
+:status: processed
+:score: 100.0
